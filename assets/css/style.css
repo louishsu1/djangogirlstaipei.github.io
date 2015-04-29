@@ -234,3 +234,7 @@ hr.fancy-line, hr.fancy-line:before {
     max-width: 100%;
     margin: 10px auto;
 }
+
+.post-detail .post-content {
+    height: auto;
+}
