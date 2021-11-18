@@ -184,7 +184,7 @@ hr.fancy-line, hr.fancy-line:before {
 .post .read-more {
     display: inline-block;
     color: #ccc;
-    padding: 5px 15px;
+    padding: 5px 100px;
     border: 1px solid #ccc;
     text-decoration: none;
     transition: all 0.2s ease-out;
